@@ -13,6 +13,8 @@ I want you to use km as distance unit, h:mm:ss for time, km/h for speed and mm:s
 
 Claude decided to use Kotlin and I never used it before and without any skills, it's possible to code an Android app, build it and run it on a real phone.
 
-You can find the APK  in ```app/release/app-release.apk```
+You can find the APK  in ```app/release/app-release.apk```.
+
+If you want to see the steps, I joined the V1 of the app too here ```app/release/first-app-release.apk```.
 
 ![Claude Running App](https://i.ibb.co/vcY6xDX/claude-running-app.png)
