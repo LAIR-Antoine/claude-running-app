@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Running Calculator</string>
+    <string name="calculate_pace">Calculate Pace</string>
+    <string name="calculate_distance">Calculate Distance</string>
+    <string name="calculate_time">Calculate Time</string>
+    <string name="convert_pace_speed">Convert Pace/Speed</string>
+    <string name="distance_label">Distance (km):</string>
+    <string name="time_label">Time (h:mm:ss):</string>
+    <string name="pace_label">Pace (mm:ss/km):</string>
+    <string name="speed_label">Speed (km/h):</string>
+    <string name="calculate_button">Calculate</string>
+    <string name="clear_button">Clear</string>
+    <string name="invalid_input">Please enter valid numbers</string>
+    <string name="pace_result">Pace: %02d:%02d /km</string>
+    <string name="distance_result">Distance: %.2f km</string>
+    <string name="time_result">Time: %d:%02d:%02d</string>
+    <string name="speed_result">Speed: %.2f km/h</string>
+    <string name="hours">Hours</string>
+    <string name="minutes">Minutes</string>
+    <string name="seconds">Seconds</string>
+    <string name="result">Result</string>
+</resources>

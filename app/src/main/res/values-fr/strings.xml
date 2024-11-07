@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Calculateur de course</string>
+    <string name="calculate_pace">Calculer l\'allure</string>
+    <string name="calculate_distance">Calculer la distance</string>
+    <string name="calculate_time">Calculer le temps</string>
+    <string name="convert_pace_speed">Convertir allure/vitesse</string>
+    <string name="distance_label">Distance (km) :</string>
+    <string name="time_label">Temps (h:mm:ss) :</string>
+    <string name="pace_label">Allure (mm:ss/km) :</string>
+    <string name="speed_label">Vitesse (km/h) :</string>
+    <string name="calculate_button">Calculer</string>
+    <string name="clear_button">Effacer</string>
+    <string name="invalid_input">Veuillez entrer des nombres valides</string>
+    <string name="pace_result">Allure : %02d:%02d /km</string>
+    <string name="distance_result">Distance : %.2f km</string>
+    <string name="time_result">Temps : %d:%02d:%02d</string>
+    <string name="speed_result">Vitesse : %.2f km/h</string>
+    <string name="hours">Heures</string>
+    <string name="minutes">Minutes</string>
+    <string name="seconds">Secondes</string>
+    <string name="result">Résultat</string>
+</resources>

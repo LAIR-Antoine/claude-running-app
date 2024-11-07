@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Brand Colors -->
+    <color name="strava_orange">#FC4C02</color>
+    <color name="strava_orange_dark">#E54602</color>
+
+    <!-- Neutrals -->
+    <color name="white">#FFFFFF</color>
+    <color name="gray_100">#F8F9FA</color>
+    <color name="gray_200">#E9ECEF</color>
+    <color name="gray_300">#DEE2E6</color>
+    <color name="gray_400">#CED4DA</color>
+    <color name="gray_500">#ADB5BD</color>
+    <color name="gray_600">#6C757D</color>
+    <color name="gray_700">#495057</color>
+    <color name="gray_800">#343A40</color>
+    <color name="gray_900">#212529</color>
+    <color name="black">#000000</color>
+
+    <!-- Utility Colors -->
+    <color name="error_red">#DC3545</color>
+    <color name="success_green">#28A745</color>
+    <color name="warning_yellow">#FFC107</color>
+    <color name="info_blue">#17A2B8</color>
+
+    <!-- Ripple Effect -->
+    <color name="ripple_color">#1F000000</color>
+    <color name="ripple_color_dark">#33FFFFFF</color>
+
+    <!-- Transparent Colors -->
+    <color name="black_alpha_10">#1A000000</color>
+    <color name="white_alpha_10">#1AFFFFFF</color>
+</resources>
